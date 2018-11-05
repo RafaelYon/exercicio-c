@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistanciaEntrePontos", "Dis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculaExpressaoComTresInteirosPositivos", "CalculaExpressaoComTresInteirosPositivos\CalculaExpressaoComTresInteirosPositivos.vcxproj", "{096723D6-534B-40FB-BDF2-F181A80D85DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IdadeDiasParaAnosMesesDias", "IdadeDiasParaAnosMesesDias\IdadeDiasParaAnosMesesDias.vcxproj", "{EFD7866C-D317-4689-B13F-2818DDCAE95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{096723D6-534B-40FB-BDF2-F181A80D85DF}.Release|x64.Build.0 = Release|x64
 		{096723D6-534B-40FB-BDF2-F181A80D85DF}.Release|x86.ActiveCfg = Release|Win32
 		{096723D6-534B-40FB-BDF2-F181A80D85DF}.Release|x86.Build.0 = Release|Win32
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Debug|x64.ActiveCfg = Debug|x64
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Debug|x64.Build.0 = Debug|x64
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Debug|x86.Build.0 = Debug|Win32
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Release|x64.ActiveCfg = Release|x64
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Release|x64.Build.0 = Release|x64
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Release|x86.ActiveCfg = Release|Win32
+		{EFD7866C-D317-4689-B13F-2818DDCAE95A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
